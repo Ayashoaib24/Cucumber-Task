@@ -13,6 +13,8 @@ import java.time.Duration;
 
 public class Base {
 
+
+
     protected WebDriver driver;
     protected static final String STC_WEB_SITE = "https://subscribe.stctv.com/sa-en/";
 
